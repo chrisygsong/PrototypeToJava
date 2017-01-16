@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/PrivateProject/java/workspace/PrototypeToJava/src/com/javalec/ex/TestEx.java" timestamp="1484568107980">
+        <mark key="'" line="5" column="21" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+      </file>
       <file name="/a.dummy" timestamp="1484566214036">
         <mark key="[" line="0" column="0" />
       </file>
@@ -12,15 +19,31 @@
         <mark key="." line="5" column="19" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="5" column="21" filename="$USER_HOME$/Desktop/PrivateProject/java/workspace/PrototypeToJava/src/com/javalec/ex/TestEx.java" />
+    </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFyIGUgPSAnQic7CiAgICAgICAgCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFyIGUgPSAnQic7CiAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0KfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+      </register>
+      <register name="5" type="4">
         <text>{
 }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{
-}</text>
+      <register name="-" type="4">
+        <text />
       </register>
     </registers>
     <search>
@@ -31,6 +54,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
