@@ -22,6 +22,7 @@ public class TestEx {
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
-        
+
+        System.out.println("TestEx Success!!");
     }
 }
