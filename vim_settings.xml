@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/PrivateProject/java/workspace/PrototypeToJava/src/com/javalec/ex/TestEx.java" timestamp="1484568107980">
+      <file name="$USER_HOME$/Desktop/PrivateProject/java/workspace/PrototypeToJava/src/com/javalec/ex/TestEx.java" timestamp="1484736185167">
         <mark key="'" line="5" column="21" />
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="22" column="27" />
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+        <mark key="." line="30" column="14" />
       </file>
       <file name="/a.dummy" timestamp="1484566214036">
         <mark key="[" line="0" column="0" />
@@ -26,8 +26,11 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjaGFyIGUgPSAnQic7CiAgICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIGUgPSAnQic7CiAgICAgICAgCg==</text>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIH0KfQo=</text>
@@ -50,7 +53,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
